@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">examenProgramacion</string>
+    <string name="search_tittle">Busca un libro</string>
+    <string name="search_tittle_ti">Busca un libro por titulo</string>
+    <string name="search_tittle_autor">Busca un libro por autor</string>
+    <string name="search_tittle_cont">Busca un libro por contenido</string>
+    <string name="test_promass">Examen</string>
+    <string name="promass">Promass</string>
+    <string name="autor">Autor</string>
+    <string name="fecha">Fecha de publicacion</string>
+    <string name="titulo">Titulo</string>
+    <string name="contenido">Contenido</string>
+    <string name="txtAutor">Ingresa el autor</string>
+    <string name="txtDate">Selecciona una fecha</string>
+    <string name="txtTitulo">Ingresa el titulo</string>
+    <string name="txtContenido">Ingresa el contenido</string>
+    <string name="tvAlta">Alta de libros</string>
+    <string name="btnInsert">Insertar</string>
+    <string name="tvFiltros">Selecciona un filtro:</string>
+    <string name="tvAll">Todos los libros:</string>
+    <string name="tvDatos">Datos del libro:</string>
+    <string name="downl">Descarga los datos</string>
+</resources>
